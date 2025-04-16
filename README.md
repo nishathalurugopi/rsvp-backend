@@ -6,10 +6,21 @@ Built using Node.js and Express, this server handles RSVP submissions and return
 
 ---
 
-## 📦 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/nishathalurugopi/rsvp-backend.git
+
 cd rsvp-backend
+
+### 2. Install dependencies
+
+npm install
+
+### 3. Start the server
+
+npm start
+
+Server will start at: http://localhost:5000
+
